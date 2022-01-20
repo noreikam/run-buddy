@@ -252,6 +252,7 @@ section {
     text-align: left;
     margin: 30px 0 0 60px;
     color: white;
+    display: inline-block;
 }
 
 .contact-info h3 {
@@ -264,11 +265,8 @@ section {
     line-height: 1.5;
     font-size: 20px;
     font-style: normal;
-    color: white;
 }
 
 .contact-info a {
     color: #fce138;
 }
-
-
